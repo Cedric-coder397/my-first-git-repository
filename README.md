@@ -1,2 +1,1 @@
-# my-first-git-repository
-my first git repository
+# i am ngeh cedric  
